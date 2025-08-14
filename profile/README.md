@@ -1,22 +1,6 @@
----
+# 🎯 Project Objective
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Makers-Tech/.github/main/profile/makers.svg" alt="Makers Tech Logo" width="120" />
-</p>
-
-<h1 align="center">
-  Makers Tech: AI-Powered E-commerce Solution
-</h1>
-
-<p align="center">
-  A comprehensive, full-stack implementation of an intelligent shopping assistant designed to enhance user engagement and streamline e-commerce operations.
-</p>
-
----
-
-## 🎯 Project Objective
-
-This project was developed to meet the challenge of creating an advanced AI chatbot for **Makers Tech**, a technology e-commerce company. The primary objective was to build a system that enhances the customer journey by providing real-time, personalized information about product inventory, features, and pricing through an intelligent, conversational interface.
+This project was developed by **Ricardo Urbina**/[Ricardo965](https://github.com/Ricardo965) to meet the challenge of creating an advanced AI chatbot for **Makers Tech**, a technology e-commerce company. The primary objective was to build a system that enhances the customer journey by providing real-time, personalized information about product inventory, features, and pricing through an intelligent, conversational interface.
 
 The solution successfully delivered not only the core chatbot functionality but also **both optional bonus features**: a personalized recommendation engine and an advanced administrative dashboard, providing a comprehensive, high-quality solution ready for presentation.
 
